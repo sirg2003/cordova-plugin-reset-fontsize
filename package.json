@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-reset-fontsize",
+  "version": "1.0.0",
+  "description": "Cordova plugin for resetting font size",
+  "cordova": {
+    "id": "cordova-plugin-reset-fontsize",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sirg2003/cordova-plugin-reset-fontsize"
+  },
+  "keywords": [
+    "cordova",
+    "android",
+    "ecosystem:cordova",
+    "cordova-android",
+    "font",
+    "size",
+    "font-size"
+  ],
+  "author": "sirg2003",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirg2003/cordova-plugin-reset-fontsize/issues"
+  },
+  "homepage": "https://github.com/sirg2003/cordova-plugin-reset-fontsize/"
+}
